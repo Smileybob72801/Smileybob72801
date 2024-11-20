@@ -76,13 +76,13 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 
 ## 📚 My Favorite Programming Books  
 - **The C# Programming Yellow Book** by Rob Miles  
-   This was my first programming book purchase, and it played a pivotal role in starting my journey. It holds a special place in my heart as the book that set me on this path.
+   This was my first programming book, and it got me started on this path. It is a great intro level book and very dear to me.
 
 - **Grokking Algorithms** by Aditya Y. Bhargava  
    This book made algorithms finally *click* for me. It helped me visualize how to approach and solve problems algorithmically in a way that made sense.
 
 - **Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software** by Eric Freeman  
-   This book was a great introduction to design patterns, which seemed intimidating at first. It felt like having a personal tutor, guiding me through each concept gently.
+   This book was a great introduction to design patterns, an intimidating subject to teach oneself. Having this book was like having a tutor that coud *see* how I needed to learn.
 
 ---
 
