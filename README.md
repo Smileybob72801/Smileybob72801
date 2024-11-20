@@ -11,7 +11,8 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 - *Clean code advocate | Lifelong learner | Tenacious problem solver*  
 - **Career Goal:** To become a **senior developer** within five years of starting my first position.  
 - **Technologies I’m skilled in:**  
-  - **Languages & Frameworks:** C#, .NET, LINQ, SQL, HTML, CSS, Python, JavaScript 
+  - **Languages & Frameworks:** C#, .NET, LINQ, SQL, HTML, CSS, Python, JavaScript
+  - **Languages I can use but consider them evil:** C
   - **Frameworks:** ASP.NET, Blazor  
   - **Database Tools:** Entity Framework Core  
   - **Testing:** NUnit, Moq  
