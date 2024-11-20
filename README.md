@@ -20,7 +20,7 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 ---
 
 ## 🚀 Featured Projects  
-### [🌦️ WeatherBlazor](#)  
+### [🌦️ WeatherBlazor](https://github.com/Smileybob72801/WeatherBlazor)  
 **Description:** A **Blazor WebAssembly app** providing real-time weather information, forecasts, and alerts using the **National Weather Service API**.  
 **Technologies:**  
 - WebAssembly for the frontend framework  
