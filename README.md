@@ -22,7 +22,8 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 
 ## 🚀 Featured Projects  
 ### [🌦️ WeatherBlazor](https://github.com/Smileybob72801/WeatherBlazor)  
-**Description:** A **Blazor WebAssembly app** providing real-time weather information, forecasts, and alerts using the **National Weather Service API**.  
+**Description:** A **Blazor WebAssembly app** providing real-time weather information, forecasts, and alerts using the **National Weather Service API**.
+
 **Technologies:**  
 - WebAssembly for the frontend framework  
 - .NET Core for backend services  
@@ -32,7 +33,8 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 ---
 
 ### [💬 ChatBot](https://github.com/Smileybob72801/ChatBot)  
-**Description:** A chatbot simulating engaging conversations with **Neil deGrasse Tyson**, offering in-character, AI-powered responses.  
+**Description:** A chatbot simulating engaging conversations with **Neil deGrasse Tyson**, offering in-character, AI-powered responses.
+
 **Technologies:**  
 - Blazor Server for the front end  
 - C# for backend logic and API integrations  
@@ -42,7 +44,8 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 ---
 
 ### [🕵️ ObjectScouter](https://github.com/Smileybob72801/ObjectScouter)  
-**Description:** A console app interacting with a **RESTful API** at restful-api.dev. It enables **CRUD operations** and advanced searches on dynamic objects with custom runtime properties.  
+**Description:** A console app interacting with a **RESTful API** at restful-api.dev. It enables **CRUD operations** and advanced searches on dynamic objects with custom runtime properties.
+
 **Highlights:**  
 - Interface for custom property creation  
 - Demonstrates **asynchronous techniques**  
