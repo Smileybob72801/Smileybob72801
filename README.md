@@ -70,6 +70,18 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 
 ---
 
+## 📚 My Favorite Programming Books  
+- **The C# Programming Yellow Book** by Rob Miles  
+   This was my first programming book purchase, and it played a pivotal role in starting my journey. It holds a special place in my heart as the book that set me on this path.
+
+- **Grokking Algorithms** by Aditya Y. Bhargava  
+   This book made algorithms finally *click* for me. It helped me visualize how to approach and solve problems algorithmically in a way that made sense.
+
+- **Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software** by Eric Freeman  
+   This book was a great introduction to design patterns, which seemed intimidating at first. It felt like having a personal tutor, guiding me through each concept gently.
+
+---
+
 ## 🌱 Outside of Work  
 When I’m not coding, I enjoy reading, camping, and gaming. I also love to cook with my wife - we make the **best** pan pizza.
 
