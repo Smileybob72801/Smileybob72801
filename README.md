@@ -49,8 +49,17 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 ---
 
 ## 🎓 Learning & Mentorship  
-I regularly tackle coding challenges on **Exercism**, a platform pulling from sources such as LeetCode and Project Odin.  
-- As a **mentor**, I guide other coders through challenges with a focus on **teaching and problem-solving strategies**, maintaining a **98% positive feedback rating**.  
+- **Harvard X CS50** by Dr. David J. Malan  
+   A comprehensive introduction to computer science and programming, exploring a wide range of topics in depth.
+  
+- **Textbook:** *C# 11 and .NET 7 – Modern Cross-Platform Development Fundamentals* by Mark Price  
+   A hands-on guide to building websites and services using ASP.NET Core 7, Blazor, and EF Core 7.
+  
+- **Udemy Course:** *Ultimate C# Masterclass* by Krystyna Ślusarczyk  
+   A deep dive into advanced C# programming concepts, covering topics from basics to advanced techniques.
+
+ - I regularly tackle coding challenges on **Exercism**, a platform pulling from sources such as LeetCode and Project Odin.  
+- As an **Exercism Mentor**, I guide other coders through challenges with a focus on **teaching and problem-solving strategies**, maintaining a **98% positive feedback rating**.
 
 ---
 
