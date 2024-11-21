@@ -47,8 +47,9 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 **Description:** A console app interacting with a **RESTful API** at restful-api.dev. It enables **CRUD operations** and advanced searches on dynamic objects with custom runtime properties.
 
 **Highlights:**  
-- Interface for custom property creation  
-- Demonstrates **asynchronous techniques**  
+- Interface for custom property creation
+- Can read and deserialize any number of properties, independent of model  
+- **Asynchronous** operation  
 
 ---
 
