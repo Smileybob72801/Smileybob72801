@@ -32,7 +32,7 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 
 ---
 
-### [💬 Chat With Neil](https://github.com/Smileybob72801/ChatBot)  
+### [💬 Chat With Neil](https://github.com/Smileybob72801/ChatWithNeil)  
 **Description:** A chatbot simulating engaging conversations with **Neil deGrasse Tyson**, offering in-character, AI-powered responses.
 
 **Technologies:**  
