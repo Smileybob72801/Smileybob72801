@@ -21,7 +21,7 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 ---
 
 ## 🚀 Featured Projects  
-### [🌦️ WeatherBlazor](https://github.com/Smileybob72801/WeatherBlazor)  
+### [🌦️ Weather Blazor](https://github.com/Smileybob72801/WeatherBlazor)  
 **Description:** A **Blazor WebAssembly app** providing real-time weather information, forecasts, and alerts using the **National Weather Service API**.
 
 **Technologies:**  
@@ -43,7 +43,7 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 
 ---
 
-### [🕵️ ObjectScouter](https://github.com/Smileybob72801/ObjectScouter)  
+### [🕵️ Object Scouter](https://github.com/Smileybob72801/ObjectScouter)  
 **Description:** A console app interacting with a **RESTful API** at restful-api.dev. It enables **CRUD operations** and advanced searches on dynamic objects with custom runtime properties.
 
 **Highlights:**  
