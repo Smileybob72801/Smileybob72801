@@ -1,6 +1,6 @@
 ---
 
-# Hello and Welcome to My GitHub! 👋  
+# Hello and Welcome to My GitHub Profile! 👋  
 My name is **Daniel**, and I’m a **self-taught .NET programmer** excited to take my first steps into a career as a developer. I’m passionate about writing **clean, maintainable code** and continuously improving my skills.  
 
 Take a look around, and don’t hesitate to reach out if you have any questions about my projects or want to collaborate!  
