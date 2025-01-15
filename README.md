@@ -12,8 +12,8 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 - **Career Goal:** To transition to a Software Developer career 
 - **Technologies I’m skilled in:**  
   - **Languages** C#, SQL, HTML, CSS, Kotlin, Java, Python, JavaScript, C
-  - **Frameworks, Libraries, and Runtimes:** C#, ASP.NET, Blazor, LINQ, Bootstrap, Node, 
-  - **Database Tools:** Entity Framework Core  
+  - **Frameworks, Libraries, and Runtimes:** .NET, ASP.NET, Blazor, LINQ, Bootstrap, Node, Jetpack Compose 
+  - **Database Tools:** EFCore  
   - **Testing:** NUnit, Moq  
   - **Other Skills:** REST APIs, asynchronous programming, design patterns  
 
@@ -56,11 +56,11 @@ Take a look around, and don’t hesitate to reach out if you have any questions 
 - **Harvard X CS50** by Dr. David J. Malan  
    A comprehensive introduction to computer science and programming, exploring a wide range of topics in depth.
   
-- **Textbook:** *C# 11 and .NET 7 – Modern Cross-Platform Development Fundamentals* by Mark Price  
+- **C# 11 and .NET 7 – Modern Cross-Platform Development Fundamentals** by Mark Price  
    A hands-on guide to building websites and services using ASP.NET Core 7, Blazor, and EF Core 7.
   
-- **Udemy Course:** *Ultimate C# Masterclass* by Krystyna Ślusarczyk  
-   A deep dive into advanced C# programming concepts, covering topics from basics to advanced techniques.
+- **Ultimate C# Masterclass** with Krystyna Ślusarczyk  
+   An online deep dive into advanced C# programming concepts.
 
  - I regularly tackle coding challenges on **Exercism**, a platform pulling from sources such as LeetCode and Project Odin.  
 - As an **Exercism Mentor**, I guide other coders through challenges with a focus on **teaching and problem-solving strategies**, maintaining a **98% positive feedback rating**.
